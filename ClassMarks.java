@@ -1,4 +1,4 @@
-// Coopyright (c) 2022 Mel Aguoth All rights reserved.
+// Copyright (c) 2022 Mel Aguoth All rights reserved.
 //
 // Created By: Mel Aguoth
 // Date: January 5, 2022
